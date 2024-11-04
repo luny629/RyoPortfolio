@@ -12,9 +12,9 @@
 
 <!-- > ![Sato Ryo's portfolio](https://user-images.githubusercontent.com/76690419/208230094-77705d55-5099-4539-8ff9-97b7ae041013.png) -->
 
-### 🏠 [Homepage](https://www.avneesh.tech/)
+### 🏠 [Homepage](https://ryo-portfolio-ruddy.vercel.app/)
 
-### ✨ [Demo](https://www.avneesh.tech/)
+### ✨ [Demo](https://ryo-portfolio-ruddy.vercel.app/)
 
 ## Author
 
