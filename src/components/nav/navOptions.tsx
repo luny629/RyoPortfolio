@@ -9,8 +9,12 @@ const navOptions = [
     href: 'work',
   },
   {
-    name: 'Blog',
+    name: 'Skills',
     href: 'blog',
+  },
+  {
+    name: 'Education',
+    href: 'education',
   },
   {
     name: 'Contact',

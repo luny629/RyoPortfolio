@@ -1,3 +1,4 @@
+import CustomCursor from '@/components/CustomCursor';
 import data from '@/data';
 import '@/styles/globals.css';
 import AOS from 'aos';
@@ -12,6 +13,7 @@ const App = ({ Component, pageProps }: AppProps) => {
 
   return (
     <>
+      <CustomCursor />
       <NextSeo
         canonical={data.website}
         defaultTitle={data.name}

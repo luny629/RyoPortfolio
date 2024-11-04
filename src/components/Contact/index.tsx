@@ -22,7 +22,7 @@ export const Contact = () => {
           <div key={name}>
             <ContactButtons
               icon={icon}
-              link={link}
+              link={''}
               marginLeft={i === 0 ? 'ml-0' : 'ml-6 md:ml-10'}
               name={name}
             />
